@@ -3,6 +3,8 @@
 	padding: 0px;
 	list-style: none;
 	text-decoration: none;
+	color: #F4C2C2;
+	box-sizing: border-box;
 }
 
 html {
@@ -11,23 +13,23 @@ html {
 
 .booking-1{
 	margin-top: 45px;
-	color:#F4C2C2 ;
+	color: #F4C2C2;
 	font-size: 18px;
 	text-align: center;
+	scroll-behavior: smooth;
 }
-
-
 
 .booking-1:hover{
 	color: #FF69B4;
 }
 
-
 .flash-1{
 	color:#F4C2C2 ;
 	font-size: 18px;
 	text-align: center;
+	scroll-behavior: smooth;
 }
+
 .flash-1:hover{
 	color: #FF69B4;
 }
@@ -36,6 +38,7 @@ html {
 	color:#F4C2C2 ;
 	font-size: 18px;
 	text-align: center;
+	scroll-behavior: smooth;
 }
 
 .about-1:hover{
@@ -46,6 +49,7 @@ html {
 	color:#F4C2C2 ;
 	font-size: 18px;
 	text-align: center;
+	scroll-behavior: smooth;
 }
 
 .work-1:hover{
@@ -61,32 +65,31 @@ html {
 	font-size: 195px;
 	margin-top: 30px;
 	margin-bottom: 5px;
-	margin-right: 50px;
-	margin-left: 50px;
 	position: relative;
 	top: -35px;
 }
 
 .pink-ig-logo{
 	width: 50px;
-
 }
 
 .box{
 	text-align: center;
 	position: relative;
-	top: -55px;
 }
 
 .booking{
+	width: 50%;
 	font-family: krul, sans-serif;
 	font-weight:400;
 	font-style:normal;
 	margin-left: 175px;
 	margin-top: 175px;
+	color: #F4C2C2;	
 }
 
 .container{
+	width: 50%;
 	font-family:garamond-premier-pro, serif;
 	font-weight: 400;
 	font-style: normal;
@@ -101,44 +104,57 @@ html {
 	font-weight:400;
 	font-style:normal;
 	margin-left: 175px;
-	margin-top: 175px;	
+	margin-top: 175px;
+	color: #F4C2C2;	
 }
 
-.salmon-about-me{
-	width: 400px;
-	margin-left: 800px;
-	margin-right: 175px;
-	position: relative;
-	top: -400px;
-	border-radius: 30px;
-}
-
-.flash1{
-	width: 500px;
-}
-
-.flash-2{
-	width: 500px;
-}
-
-.flash-3{
-	width: 500px;
-}
-
-.flash-4{
-	width: 500px;
-}
 
 .container-2{
+	width: 50%;
 	font-family:garamond-premier-pro, serif;
 	font-weight: 400;
 	font-style: normal;
 	margin-right: 700px;
-	margin-top: 25px;
 	margin-left: 175px;
 	position: relative;
 	top: -100px;
 }
+
+.hello{
+	width: 75%;
+	margin-top: 30px;
+}
+
+
+.salmon-about-me{
+	width: 400px;
+	margin-left: 675px;
+	position: relative;
+	top: -400px;
+	right: -150px;
+	border-radius: 30px;
+}
+
+.flash1{
+	border-radius: 30px;
+	width: 300px;
+}
+
+.flash-2{
+	border-radius: 30px;
+	width: 300px;;
+}
+
+.flash-3{
+	border-radius: 30px;
+	width: 300px;;
+}
+
+.flash-4{
+	border-radius: 30px;
+	width: 300px;;
+}
+
 
 .flash{
 	font-family: krul, sans-serif;
@@ -168,8 +184,4 @@ width: 500px;
 
 .tat-4{
 width: 500px;
-}
-
-.box-3{
-
 }
