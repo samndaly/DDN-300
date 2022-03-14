@@ -1,0 +1,175 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	text-decoration: none;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.booking-1{
+	margin-top: 45px;
+	color:#F4C2C2 ;
+	font-size: 18px;
+	text-align: center;
+}
+
+
+
+.booking-1:hover{
+	color: #FF69B4;
+}
+
+
+.flash-1{
+	color:#F4C2C2 ;
+	font-size: 18px;
+	text-align: center;
+}
+.flash-1:hover{
+	color: #FF69B4;
+}
+
+.about-1{
+	color:#F4C2C2 ;
+	font-size: 18px;
+	text-align: center;
+}
+
+.about-1:hover{
+	color: #FF69B4;
+}
+
+.work-1{
+	color:#F4C2C2 ;
+	font-size: 18px;
+	text-align: center;
+}
+
+.work-1:hover{
+	color: #FF69B4;
+}
+
+
+.home{
+	font-family: krul, sans-serif;
+	font-weight:400;
+	font-style:normal;
+	color: #F4C2C2;
+	font-size: 195px;
+	margin-top: 30px;
+	margin-bottom: 5px;
+	margin-right: 50px;
+	margin-left: 50px;
+	position: relative;
+	top: -35px;
+}
+
+.pink-ig-logo{
+	width: 50px;
+
+}
+
+.box{
+	text-align: center;
+	position: relative;
+	top: -55px;
+}
+
+.booking{
+	font-family: krul, sans-serif;
+	font-weight:400;
+	font-style:normal;
+	margin-left: 175px;
+	margin-top: 175px;
+}
+
+.container{
+	font-family:garamond-premier-pro, serif;
+	font-weight: 400;
+	font-style: normal;
+	margin-left: 700px;
+	margin-right: 175px;
+	position: relative;
+	top: -200px;
+}
+
+.about{
+	font-family: krul, sans-serif;
+	font-weight:400;
+	font-style:normal;
+	margin-left: 175px;
+	margin-top: 175px;	
+}
+
+.salmon-about-me{
+	width: 400px;
+	margin-left: 800px;
+	margin-right: 175px;
+	position: relative;
+	top: -400px;
+	border-radius: 30px;
+}
+
+.flash1{
+	width: 500px;
+}
+
+.flash-2{
+	width: 500px;
+}
+
+.flash-3{
+	width: 500px;
+}
+
+.flash-4{
+	width: 500px;
+}
+
+.container-2{
+	font-family:garamond-premier-pro, serif;
+	font-weight: 400;
+	font-style: normal;
+	margin-right: 700px;
+	margin-top: 25px;
+	margin-left: 175px;
+	position: relative;
+	top: -100px;
+}
+
+.flash{
+	font-family: krul, sans-serif;
+	font-weight:400;
+	font-style:normal;
+	margin-left: 175px;
+}
+
+.work{
+	font-family: krul, sans-serif;
+	font-weight:400;
+	font-style:normal;
+	margin-top: 175px;
+}
+.tat-1{
+width: 500px;
+
+}
+
+.tat-2{
+width: 500px;
+}
+
+.tat-3{
+width: 500px;
+}
+
+.tat-4{
+width: 500px;
+}
+
+.box-3{
+
+}
